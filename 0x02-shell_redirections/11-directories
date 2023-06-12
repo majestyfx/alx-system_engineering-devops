@@ -1,0 +1,2 @@
+#!/bin/bash
+count=0 > -R ls -al 
