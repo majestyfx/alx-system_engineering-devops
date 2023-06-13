@@ -1,2 +1,2 @@
 #!/bin/bash
-echo | sed 's/A/Z/g; s/c/e/g'
+echo "Sample input with A and c characters" | sed 's/A/Z/g; s/c/e/g'
