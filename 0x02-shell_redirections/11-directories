@@ -1,2 +1,2 @@
 #!/bin/bash
-count=0 > -R ls -al 
+find . -type d -not -name '.' | wc -l
